@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="5dip"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <EditText 
+    	android:id="@+id/input_url"
+    	android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"/>
+	<Button 
+	    android:id="@+id/check_btn"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="恶意网址检查"/>
+	<Button 
+	    android:id="@+id/btn1"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="内置地址测试"/>
+	<TextView 
+	    android:id="@+id/content_shower"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1"/>   
+		 
+</LinearLayout>

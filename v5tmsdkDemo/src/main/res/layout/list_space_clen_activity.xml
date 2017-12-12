@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:llll="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <com.tencent.tmsecure.demo.ivvi.SpaceClenView
+        android:id="@+id/SpaceClenView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        llll:leftImgeIcon="@drawable/ic_launcher"
+        llll:leftTitleText="大文件"
+        llll:abstractText="akdaadf"
+        llll:rightText="hhahdsafdad"
+    >
+    </com.tencent.tmsecure.demo.ivvi.SpaceClenView>
+
+    <com.tencent.tmsecure.demo.ivvi.SpaceClenView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        llll:leftImgeIcon="@null"
+        >
+    </com.tencent.tmsecure.demo.ivvi.SpaceClenView>
+    <com.tencent.tmsecure.demo.ivvi.SpaceClenView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        llll:leftImgeIcon="@drawable/ic_launcher"
+    >
+    </com.tencent.tmsecure.demo.ivvi.SpaceClenView>
+    <com.tencent.tmsecure.demo.ivvi.SpaceClenView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        llll:leftImgeIcon="@null"
+    >
+    </com.tencent.tmsecure.demo.ivvi.SpaceClenView>
+
+
+
+</LinearLayout>

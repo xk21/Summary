@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Summary.iml" filepath="$PROJECT_DIR$/Summary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom_view/custom_view.iml" filepath="$PROJECT_DIR$/custom_view/custom_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itemdecorationdemo/itemdecorationdemo.iml" filepath="$PROJECT_DIR$/itemdecorationdemo/itemdecorationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sectionalview/sectionalview.iml" filepath="$PROJECT_DIR$/sectionalview/sectionalview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadcommunication/threadcommunication.iml" filepath="$PROJECT_DIR$/threadcommunication/threadcommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topnewgrid/topnewgrid.iml" filepath="$PROJECT_DIR$/topnewgrid/topnewgrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v5tmsdkDem/v5tmsdkDem.iml" filepath="$PROJECT_DIR$/v5tmsdkDem/v5tmsdkDem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v5tmsdkDemo6.0/v5tmsdkDemo6.0.iml" filepath="$PROJECT_DIR$/v5tmsdkDemo6.0/v5tmsdkDemo6.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whew/whew.iml" filepath="$PROJECT_DIR$/whew/whew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xufuchuang/xufuchuang.iml" filepath="$PROJECT_DIR$/xufuchuang/xufuchuang.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,359 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:2:1-322:12
+	package
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml
+		INJECTED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml
+		INJECTED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml
+		INJECTED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:8:5-256:19
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:9:6-38
+	android:icon
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:8:18-47
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:10:2-33
+activity#com.tencent.tmsecure.demo.DemoMainActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:14:19-51
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:13:19-76
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:18:27-73
+category#android.intent.category.LAUNCHER
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:19:27-74
+activity#com.tencent.tmsecure.demo.intelli_sms.IntelliSmsActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:23:9-29:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:24:13-54
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:23:19-90
+intent-filter#android.intent.action.SDK+android.intent.category.SAMPLE_CODE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.SDK
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:26:25-65
+category#android.intent.category.SAMPLE_CODE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:27:17-80
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:27:27-77
+activity#com.tencent.tmsecure.demo.optimus.OptimusActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:30:9-36:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:30:19-83
+activity#com.tencent.tmsecure.demo.numbermark.NumberMarkActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:37:9-44:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:38:13-56
+	android:windowSoftInputMode
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:39:13-55
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:37:19-89
+activity#com.tencent.tmsecure.demo.wifidetect.WifiDetectActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:45:9-51:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:46:13-50
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:45:19-89
+activity#com.tencent.tmsecure.demo.aresengine.FilterActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:55:9-61:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:56:10-49
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:55:19-85
+activity#com.tencent.tmsecure.demo.qscanner.ScannerActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:63:9-69:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:64:17-57
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:63:19-84
+activity#com.tencent.tmsecure.demo.multiLang.MultiLangActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:71:9-77:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:72:17-59
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:71:19-87
+activity#com.tencent.tmsecure.demo.location.LocationActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:79:9-86:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:80:17-58
+	android:windowSoftInputMode
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:81:17-59
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:79:19-85
+activity#com.tencent.tmsecure.demo.deepclean.CleanV2Activity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:91:9-97:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:92:17-58
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:91:19-85
+activity#com.tencent.tmsecure.demo.spacemanager.SpaceManagerPhoto
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:98:9-92
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:98:19-90
+activity#com.tencent.tmsecure.demo.spacemanager.SimilarPhotoActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:99:9-95
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:99:19-93
+activity#com.tencent.tmsecure.demo.spacemanager.SpaceManagerActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:100:9-107:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:101:13-65
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:100:19-68
+activity#com.tencent.tmsecure.demo.network.NetworkActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:108:9-114:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:109:17-57
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:108:19-83
+activity#com.tencent.tmsecure.demo.usefulnumber.UsefulNumberActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:116:10-122:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:117:17-62
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:116:20-94
+activity#com.tencent.tmsecure.demo.ipdial.IpDialActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:124:9-130:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:125:14-53
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:124:19-81
+activity#com.tencent.tmsecure.demo.trafficcorrection.TrafficCorrectionActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:132:9-138:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:133:14-64
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:132:19-103
+activity#com.tencent.tmsecure.demo.update.UpdateActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:140:9-146:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:141:17-56
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:140:19-81
+activity#com.tencent.tmsecure.demo.antitheft.AntitheftActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:158:3-164:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:159:8-50
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:158:13-81
+activity#com.tencent.tmsecure.demo.urlmonitor.UrlMonitorActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:166:9-173:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:167:8-51
+	android:windowSoftInputMode
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:168:8-50
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:166:19-89
+activity#com.tencent.tmsecure.demo.software.SoftwareActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:184:9-191:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:186:13-53
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:185:13-79
+activity#com.tencent.tmsecure.demo.powersaving.PowerSavingActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:223:10-229:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:224:8-52
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:223:20-92
+activity#com.tencent.tmsecure.demo.optimize.CpuActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:231:9-237:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:232:8-44
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:231:19-55
+activity#com.tencent.tmsecure.demo.optimize.OptimizeActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:238:9-240:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:239:8-44
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:238:19-60
+activity#com.tencent.tmsecure.demo.deepclean.CustomSdcardRootsActivity
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:242:9-244:20
+	android:label
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:243:17-69
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:242:19-95
+service#com.tencent.tmsecure.demo.DemoSecureService
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:247:9-55
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:247:19-52
+receiver#com.tencent.tmsecure.demo.DemoBootReceiver
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:250:10-254:21
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:250:20-52
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:251:13-253:29
+	android:priority
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:251:28-57
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:252:17-79
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:252:25-76
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:258:5-68
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:258:22-65
+uses-permission#android.permission.REAL_GET_TASKS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:259:5-73
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:259:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:260:5-75
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:260:22-72
+uses-permission#android.permission.INTERNET
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:261:5-67
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:261:22-64
+uses-permission#android.permission.UPDATE_APP_OPS_STATS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:262:5-79
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:262:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:263:5-264:23
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:263:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:267:5-81
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:267:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:268:5-73
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:268:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:269:5-73
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:269:22-70
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:270:2-67
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:270:19-64
+uses-permission#android.permission.RECEIVE_MMS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:271:2-67
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:271:19-64
+uses-permission#android.permission.READ_SMS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:272:2-64
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:272:19-61
+uses-permission#android.permission.READ_MMS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:273:5-67
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:273:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:274:5-68
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:274:22-65
+uses-permission#android.permission.RECEIVE_WAP_PUSH
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:275:5-75
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:275:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:279:5-68
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:279:22-66
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:282:5-72
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:282:22-70
+uses-permission#android.permission.SET_ANIMATION_SCALE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:283:5-78
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:283:22-75
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:284:2-75
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:284:19-72
+uses-permission#android.permission.VIBRATE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:285:2-63
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:285:19-60
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:286:2-65
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:286:19-62
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:287:2-71
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:287:19-68
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:290:5-291:23
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:290:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:294:5-295:23
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:294:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:298:5-76
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:298:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:299:5-76
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:299:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:304:5-79
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:304:22-76
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:309:2-72
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:309:19-69
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:310:2-72
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:310:19-69
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:311:5-74
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:311:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:314:5-80
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:314:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:315:2-80
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:315:19-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:318:2-77
+	android:name
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:318:19-75
+uses-sdk
+ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:320:5-73
+	android:targetSdkVersion
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:320:15-44
+		INJECTED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml
+		INJECTED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml:320:45-71
+		INJECTED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml
+		INJECTED from E:\studiowork\Summary\v5tmsdkDemo6.0\src\main\AndroidManifest.xml

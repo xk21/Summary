@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpaceClenView">
+        <attr name="leftImgeIcon" format="reference"/>
+        <attr name="middleImgeIcon" format="reference"/>
+        <attr name="leftTitleText" format="string"/>
+        <attr name="leftTitleColor" format="color"/>
+        <attr name="abstractText" format="string"/>
+        <attr name="abstractTextColor" format="color"/>
+        <attr name="rightText" format="string"/>
+        <attr name="rightTextSize" format="dimension"/>
+        <attr name="rightTextColor" format="color"/>
+        <attr name="rightImgeIcon" format="reference"/>
+
+    </declare-styleable>
+    <declare-styleable name="LevelMenuItem">
+        <attr name="text" format="string" />
+        <attr name="text_color" format="color"/>
+        <attr name="text_size" format="dimension" />
+        <attr name="image_src" format="reference"/>
+        <attr name="image_bg" format="reference"/>
+        <attr name="image_alpha" format="integer" />
+        <attr name="image_height" format="dimension"></attr>
+        <attr name="image_width" format="dimension" />
+    </declare-styleable>
+</resources>

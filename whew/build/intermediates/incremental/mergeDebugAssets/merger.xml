@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\chenmingying\.android\build-cache\981a9238385a8a255046dea17f2a5c27728d41cf\output\assets"/></dataSet><dataSet config="main"><source path="E:\studiowork\Summary\whew\src\main\assets"/><source path="E:\studiowork\Summary\whew\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\studiowork\Summary\whew\src\debug\assets"/></dataSet></merger>

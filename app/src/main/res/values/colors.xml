@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="security_color_base">#FF29a600</color>
+    <color name="security_color_cell_text_color">#4c4c4c</color>
+    <drawable name="security_color_grade_one">#FF29a600</drawable>
+    <drawable name="security_color_grade_four">#b5b709</drawable>
+    <drawable name="security_color_grade_seven">#da4453</drawable>
+    <!-- 颜色等级  start -->
+    <drawable name="security_color_grade_00">#09b77c</drawable>
+    <drawable name="security_color_grade_01">#09b86f</drawable>
+    <drawable name="security_color_grade_02">#09b860</drawable>
+    <drawable name="security_color_grade_03">#09b852</drawable>
+    <drawable name="security_color_grade_04">#09b843</drawable>
+    <drawable name="security_color_grade_05">#09b835</drawable>
+    <drawable name="security_color_grade_06">#09b826</drawable>
+    <drawable name="security_color_grade_07">#09b818</drawable>
+    <drawable name="security_color_grade_08">#09b809</drawable>
+    <drawable name="security_color_grade_09">#18b809</drawable>
+    <drawable name="security_color_grade_10">#26b809</drawable>
+    <drawable name="security_color_grade_11">#35b809</drawable>
+    <drawable name="security_color_grade_12">#43b809</drawable>
+    <drawable name="security_color_grade_13">#52b809</drawable>
+    <drawable name="security_color_grade_14">#60b809</drawable>
+    <drawable name="security_color_grade_15">#6fb809</drawable>
+    <drawable name="security_color_grade_16">#7db809</drawable>
+    <drawable name="security_color_grade_17">#8cb809</drawable>
+    <drawable name="security_color_grade_18">#9bb809</drawable>
+    <drawable name="security_color_grade_19">#a9b809</drawable>
+    <drawable name="security_color_grade_20">#b8b809</drawable>
+    <drawable name="security_color_grade_21">#d9b943</drawable>
+    <drawable name="security_color_grade_22">#d9b143</drawable>
+    <drawable name="security_color_grade_23">#d9a943</drawable>
+    <drawable name="security_color_grade_24">#d9a143</drawable>
+    <drawable name="security_color_grade_25">#d99943</drawable>
+    <drawable name="security_color_grade_26">#d99143</drawable>
+    <drawable name="security_color_grade_27">#d98943</drawable>
+    <drawable name="security_color_grade_28">#d98143</drawable>
+    <drawable name="security_color_grade_29">#d97943</drawable>
+    <drawable name="security_color_grade_30">#d97143</drawable>
+    <drawable name="security_color_grade_31">#d96943</drawable>
+    <drawable name="security_color_grade_32">#d95c43</drawable>
+    <drawable name="security_color_grade_33">#d94343</drawable>
+    <drawable name="security_color_grade_34">#da4453</drawable>
+
+    <!-- 颜色等级  end -->
+    <drawable name="security_red">#7f00</drawable>
+    <drawable name="security_blue">#770000ff</drawable>
+    <drawable name="security_green">#7700ff00</drawable>
+    <drawable name="security_yellow">#77ffff00</drawable>
+    <drawable name="security_screen_background_black">#ff000000</drawable>
+    <drawable name="security_translucent_background">#e0000000</drawable>
+    <drawable name="security_transparent_background">#00000000</drawable>
+
+    <color name="security_app_manager_actionbar_drawable">#f1736a</color>
+    <color name="security_solid_red">#ff0000</color>
+    <color name="security_solid_blue">#0000ff</color>
+    <color name="security_solid_green">#f0f0</color>
+    <color name="security_solid_yellow">#ffffff00</color>
+    <color name="security_list_title">#b1b1b2</color>
+    <color name="security_check_button">#3f7f00</color>
+    <color name="security_enabled_text">#808c80</color>
+    <color name="security_set_button_text">#669727</color>
+    <color name="security_spec_color">#d24f00</color>
+    <color name="security_white_color">#fff5f5f5</color>
+    <color name="security_maintable_icon_color">#ff000000</color>
+    <color name="security_ButtonTextColor">#417300</color>
+    <color name="security_color_unselected">#7e858a</color>
+    <color name="security_color_selected">#000000</color>
+    <color name="security_color_gray">#707070</color>
+    <color name="security_color_list_title">#0e0e0e</color>
+    <color name="security_color_list_abstract">#7b7b7b</color>
+    <color name="security_color_list_bg">#fefcfc</color>
+    <color name="security_color_parent_list_bg">#ededed</color>
+    <color name="security_color_gray_background">#ededed</color>
+    <color name="security_summary_black">#7b7b7b</color>
+    <drawable name="security_color_flux_main_actionbar">#1f9be9</drawable>
+
+    <color name="security_numberpicker_textcolor_highlight">#FF77CC00</color>
+    <color name="security_actionbar_background_start">#8B1A1A</color>
+    <color name="security_actionbar_background_end">#CD2626</color>
+    <color name="security_actionbar_background_item_pressed_start">#FF7F00</color>
+    <color name="security_actionbar_background_item_pressed_end">#EE7600</color>
+    <drawable name="security_color_flux_main_actionbar_bg">#000000</drawable>
+    <color name="security_flowmode_color_selected">#ffffff</color>
+    <color name="security_flowmode_color_unselected">#7b7b7b</color>
+    <color name="security_color_alarm">#f13f00</color>
+    <color name="security_color_time">#000000</color>
+    <color name="security_color_green">#1ca500</color>
+    <!-- shuqi add color begin -->
+
+    <color name="security_storage_space_background_color">#FFEDEDED</color>
+    <color name="security_space_detail_view_background_color">#FFFFFFFF</color>
+    <color name="security_progressbar_background_color">#E5E5E5</color>
+    <color name="security_progressbar_color">#2A96E1</color>
+    <color name="security_test">#0fcf8e</color>
+    <!-- shuqi add color end -->
+    <!-- lishilun add color begin -->
+    <color name="security_color_gridview_background">#cccccc</color>
+    <color name="security_color_gridview_item_background">#f5f5f5</color>
+    <color name="security_color_listview_item_background">#fff5f5f5</color>
+    <color name="security_color_gridview_select_background">#e6e6e6</color>
+    <color name="security_color_main_activity_background">#4fa250</color>
+    <color name="security_color_main_activity_gridview_text">#0e0e0e</color>
+
+    <color name="security_loading_dialog_bg_color">#00000000</color>
+    <color name="security_alert_dialog_button_default_text_color">#FF000000</color>
+    <color name="security_alert_dialog_button_disabled_text_color">#B2000000</color>
+    <color name="security_alert_dialog_button_pressed_text_color">#FFFFFFFF</color>
+    <color name="security_alert_dialog_message_text_color">#FF0E0E0E</color>
+    <color name="security_alert_dialog_title_text_color">#FFFFFFFF</color>
+    <color name="security_alert_dialog_list_item_text_color_normal">#FF0E0E0E</color>
+    <color name="security_alert_dialog_list_item_text_color_disabled">#FFBFBFBF</color>
+    <color name="security_self_check_item_enabled">#2b9900</color>
+    <color name="security_self_check_item_disabled">#f5f5f5</color>
+    <color name="security_dialog_check_item_enabled">#2b9900</color>
+    <color name="security_dialog_check_item_disabled">#ffffff</color>
+    <!-- lishilun add color end -->
+
+    <!-- gaoping add color begin -->
+
+    <drawable name="security_color_grade_battery">#44ae76</drawable>
+    <drawable name="security_color_grade_two">#09b74f</drawable>
+    <drawable name="translucent_background">#e0000000</drawable>
+    <drawable name="transparent_background">#00000000</drawable>
+    <drawable name="security_color_red_battery">#bd5441</drawable>
+    <!-- gaoping add color end -->
+
+    <!-- shafei add color begin -->
+    <drawable name="security_color_grade_flow">#44ae76</drawable>
+    <drawable name="security_color_red_flow">#bd5441</drawable>
+    <!-- shafei add color end -->
+
+    <drawable name="security_notification_item_background_legacy_color">#ffaaaaaa</drawable>
+
+    <color name="security_topbar_button_bg_color">#33000000</color>
+    <color name="security_grid_item_selecter">#d9d9d9</color>
+    <color name="security_color_security_grid_line">#d0d0d0</color>
+
+    <color name="security_item_normal_bg_color">#f5f5f5</color>
+    <color name="security_item_pressed_bg_color">#e0e0e0</color>
+    <color name="security_item_line_bg_color">#e0e0e0</color>
+
+
+    <color name="security_topbar_title_text_color">#FFFFFFFF</color>
+    <color name="security_topbar_subtitle_text_color">#B2FFFFFF</color>
+    <color name="security_topbar_tab_text_color_normal">#66FFFFFF</color>
+    <color name="security_topbar_tab_text_color_selected">#FFFFFFFF</color>
+    <color name="security_topbar_tab_text_color_pressed">#FFFFFFFF</color>
+    <color name="security_bottombar_title_text_color">#99000000</color>
+    <color name="security_topbar_button_text_color">#FFFFFFFF</color>
+    <!-- remind/warn/err info color -->
+    <color name="security_remind_info_color">#e81a1a</color>
+    <color name="security_setting_page_default_color">#f5f5f5</color>
+
+    <color name="security_list_group_color">#a0a0a0</color>
+    <color name="security_font_color_B">#FF0E0E0E</color>
+    <color name="security_font_color_I">#FF008000</color>
+    <color name="security_font_color_X">#FF0d0d0d</color>
+    <color name="security_font_color_Y">#FF13ce5c</color>
+    <color name="security_font_color_Z">#FFff2a00</color>
+    <color name="security_font_color_CheckBox">#FF333333</color>
+    <color name="security_font_color_grouptext">#FFa0a0a0</color>
+    <color name="security_font_color_divider">#FFe0e0e0</color>
+    <color name="security_main_warn_info_color">#FFff3434</color>
+    <color name="smsmms_link_text_color">#4080E6</color>
+</resources>

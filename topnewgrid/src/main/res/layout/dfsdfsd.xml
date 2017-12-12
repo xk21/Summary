@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+              android:orientation="vertical"
+                >
+
+    <com.yulong.android.security.sherlock.view.TitleBar
+        android:id="@+id/appmanager_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="72dip"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/apk_info_bar"
+        android:layout_below="@id/appmanager_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:orientation="vertical" >
+
+        <com.yulong.android.security.ui.view.XposedTextView
+            android:id="@+id/xpsoed_tips"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="24dp"
+            android:orientation="horizontal" >
+            <TextView
+                android:id="@+id/apkinfo_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_gravity="center_vertical"
+                android:textSize="12sp"
+                android:singleLine="true"
+                android:textColor="#a0a0a0"/>
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="16dp"
+                android:layout_gravity="center_vertical"
+                 />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ListView
+        android:visibility="gone"
+        android:layout_weight="1"
+        android:id="@+id/app_manager_list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/apk_info_bar"
+        android:drawSelectorOnTop="false" >
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/no_data"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="180dp"
+        android:layout_gravity="center"
+        android:layout_centerHorizontal="true"
+        >
+
+        <ImageView
+            android:id="@+id/no_record"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/app_close"
+            android:visibility="gone"
+            android:scaleType="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#a8a8a8"
+            android:textSize="14sp"
+            android:text="eeee" />
+    </LinearLayout>
+
+    <!--<include
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        layout="@layout/security_loading_layout" />-->
+
+    <RelativeLayout
+        android:id="@+id/apk_layoutbutton"
+        android:layout_width="fill_parent"
+        android:layout_height="64dp"
+        android:visibility="gone"
+        android:gravity="center_vertical" >
+
+        <LinearLayout
+            android:id="@+id/button_layout"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/apk_button"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:textSize="14sp"
+                android:text="卸载" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

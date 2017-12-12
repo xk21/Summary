@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">custom_view</string>
+    <string name="title_activity_text_summary_with_img_check_box">
+        TextSummaryWithImgCheckBoxActivity
+    </string>
+    <string name="title_activity_sliding_menu">SlidingMenuActivity</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    
+    <ImageView
+        android:id="@+id/space_image_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FFF"
+        android:padding="0dp"
+        android:scaleType="fitCenter" 
+        android:src="#F00"/>
+    <CheckBox
+        android:id="@+id/space_image_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/space_image_imageview"
+        android:layout_alignRight = "@id/space_image_imageview"/>
+
+</RelativeLayout>

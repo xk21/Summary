@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "E:\\studiowork\\Summary\\whew\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 57,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "E:\\studiowork\\Summary\\whew\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 55,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "E:\\studiowork\\Summary\\whew\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 52,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "E:\\studiowork\\Summary\\whew\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 52,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 41,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "E:\\studiowork\\Summary\\whew\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 41,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 52,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "E:\\studiowork\\Summary\\whew\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "E:\\studiowork\\Summary\\whew\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "E:\\studiowork\\Summary\\whew\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

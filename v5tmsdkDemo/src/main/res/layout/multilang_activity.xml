@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView 
+	    android:id="@+id/current_language"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1"/>  
+	    
+    <Button 
+	    android:id="@+id/bt_chs"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="中文"/>
+    <Button 
+	    android:id="@+id/bt_eng"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="英文"/>
+    
+</LinearLayout>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:stretchColumns="1"> 
+    
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="IP拨号方式设置" />        
+    </TableRow>
+    
+	<TableRow>        
+	    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+		    <Spinner
+		        android:id="@+id/spinner_dial_mode"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content" />
+	    </LinearLayout>
+    </TableRow>
+    
+	<TableRow>
+        <TextView
+            android:id="@+id/textView_ip_dial_mode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#99CC32"
+            android:textSize="20dp" />
+    </TableRow>
+
+	<View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+	
+	<TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="IP头号码设置" />        
+    </TableRow>
+    
+	<TableRow>
+	    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Spinner
+                android:id="@+id/spinner_ip_header"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </TableRow>
+    
+	<TableRow>
+        <TextView
+            android:id="@+id/textView_ip_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#99CC32"
+            android:textSize="20dp" />
+    </TableRow>
+	
+	<View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+	
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="本机所属地区" />        
+    </TableRow>
+    
+    <TableRow>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/button_set_local_phone_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="0"
+                android:gravity="center_vertical"
+                android:text="设置" />
+        </LinearLayout>
+    </TableRow>
+
+    <TableRow>
+        
+	    <TextView
+	        android:id="@+id/textView_local_phone_location"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text=""
+	        android:textColor="#99CC32"
+	        android:textSize="20dp" />
+	    
+    </TableRow>
+
+	<View
+        android:layout_height="2dip"
+        android:background="#FF909090" /> 
+   
+    <TableRow>
+        
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="以下地区不使用IP拨号（对任何IP拨号方式都有效）" />
+	    
+    </TableRow>
+    
+    <TableRow>
+        <LinearLayout 
+            	android:orientation="horizontal"
+            	android:layout_width="wrap_content"
+		        android:layout_height="wrap_content">
+		        
+		    <Button
+		        android:id="@+id/button_add_exclude_area"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:gravity="center_vertical"
+		        android:text="增加" />
+		
+		    <Button
+		        android:id="@+id/button_del_exclude_area"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:gravity="center_vertical"
+		        android:text="删除" />
+	    </LinearLayout>
+	    
+    </TableRow>
+
+    <TableRow>
+        
+	    <TextView
+	        android:id="@+id/textView_excluded_areas"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text=""
+	        android:textColor="#99CC32"
+	        android:textSize="20dp" />
+	    
+    </TableRow>
+
+	<View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+    
+    <TableRow>
+        
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="以下号码不使用IP拨号（对任何IP拨号方式都有效）" />
+	
+    </TableRow>
+    
+    <TableRow>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/button_add_exclude_telnum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:text="增加" />
+
+            <Button
+                android:id="@+id/button_del_exclude_telnum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:text="删除" />
+        </LinearLayout>
+	    
+    </TableRow>
+    
+    <TableRow>
+        <TextView
+            android:id="@+id/textView_exclude_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#99CC32"
+            android:textSize="20dp" />
+    </TableRow>
+
+	<View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+	    
+    <TableRow>
+	    <Button
+	        android:id="@+id/button_save_config"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="保存以上设置，才能进行测试" />
+    </TableRow>
+
+	<View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+    
+    <TableRow>
+	    <Button
+	        android:id="@+id/button_set_dial_num"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_centerHorizontal="true"
+	        android:text="测试拨号" />
+    </TableRow>
+
+</TableLayout>
+
+</ScrollView>

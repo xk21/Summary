@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Oct 30 21:50:50 CST 2017
+2.base=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+7.set=DEX
+count=8
+0.file=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\myphoto.jpg
+1.set=ANDROID_RESOURCE
+7.base=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+2.file=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\hongbao_gq.mp3
+3.set=ANDROID_RESOURCE
+1.base=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\studiowork\\Summary\\whew\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE

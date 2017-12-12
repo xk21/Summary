@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content">
+        <TextView android:layout_width="40dp"
+                  android:id="@+id/textv"
+                  android:layout_gravity="center"
+                  android:background="@mipmap/txticon"
+                  android:gravity="center"
+                  android:layout_height="40dp"/>
+        <ImageView android:layout_width="40dp"
+                  android:layout_gravity="center"
+                  android:src="@mipmap/txticon"
+                  android:gravity="center"
+                  android:layout_height="40dp"/>
+        <ImageView android:layout_width="40dp"
+                  android:layout_gravity="center"
+                  android:background="@mipmap/txticon"
+                  android:gravity="center"
+                  android:layout_height="40dp"/>
+        <TextView android:layout_width="40dp"
+                  android:layout_gravity="center"
+                  android:background="@mipmap/txticon"
+                  android:gravity="center"
+                  android:text="txt"
+                  android:textSize="15dp"
+                  android:textColor="#000"
+                  android:layout_height="40dp"/>
+    </LinearLayout>
+
+    <ScrollView android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+    >
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="match_parent"
+                      android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:gravity="center"
+                android:padding="8dp"
+                android:text="自定义view"
+            />
+            <Button android:id="@+id/bt_01"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="shuzi1"
+            />
+            <Button android:id="@+id/bt_02"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="组和式view"
+            />
+            <Button android:id="@+id/bt_03"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="进度条"
+            />
+            <Button android:id="@+id/bt_04"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="转化开关"
+            />
+            <Button android:id="@+id/bt_05"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="交叉布局"
+            />
+            <Button android:id="@+id/bt_06"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="滑动解锁"
+            />
+            <Button android:id="@+id/bt_07"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="策滑菜单"
+            />
+            <Button android:id="@+id/bt_08"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="神奇的ViewPager"
+            />
+            <Button android:id="@+id/bt_09"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="shuzi9"
+            />
+            <Button android:id="@+id/bt_10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="滑动解锁"
+            />
+            <Button android:id="@+id/bt_11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="策滑菜单"
+            />
+            <Button android:id="@+id/bt_12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="神奇的ViewPager"
+            />
+            <Button android:id="@+id/bt_13"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="shuzi9"
+            />
+            <Switch android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+            />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

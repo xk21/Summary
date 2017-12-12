@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/custom_view" />
+            <option value="$PROJECT_DIR$/itemdecorationdemo" />
+            <option value="$PROJECT_DIR$/sectionalview" />
+            <option value="$PROJECT_DIR$/threadcommunication" />
+            <option value="$PROJECT_DIR$/topnewgrid" />
+            <option value="$PROJECT_DIR$/v5tmsdkDem" />
+            <option value="$PROJECT_DIR$/v5tmsdkDemo6.0" />
+            <option value="$PROJECT_DIR$/whew" />
+            <option value="$PROJECT_DIR$/xufuchuang" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

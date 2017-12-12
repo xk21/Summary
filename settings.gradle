@@ -1,0 +1,4 @@
+include ':app', ':topnewgrid', ':threadcommunication', ':custom_view', ':sectionalview', ':itemdecorationdemo', ':xufuchuang', 'v5tmsdkDem'
+include ':v5tmsdkDemo6.0'
+
+include ':whew'

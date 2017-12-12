@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo/src/main/java/com/tencent/tmsecure/demo/DemoApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo/src/main/java/com/tencent/tmsecure/demo/DemoBootReceiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo/src/main/java/com/tencent/tmsecure/demo/DemoMainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo/src/main/java/com/tencent/tmsecure/demo/DemoSecureService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo/src/main/java/com/tencent/tmsecure/demo/aresengine/DemoAresEngineFactor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo/src/main/java/com/tencent/tmsecure/demo/aresengine/EntityConvert.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo/src/main/java/com/tencent/tmsecure/demo/aresengine/FilterActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo/src/main/java/com/tencent/tmsecure/demo/aresengine/MyContact.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo/src/main/java/com/tencent/tmsecure/demo/numbermark/NumberMarkActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo/src/main/java/com/tencent/tmsecure/demo/qscanner/ScannerActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo/src/main/java/com/tencent/tmsecure/demo/update/UpdateActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo/src/main/java/com/tencent/tmsecure/demo/urlmonitor/UrlMonitorActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/DemoApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/DemoBootReceiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/DemoMainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/DemoSecureService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/aresengine/DemoAresEngineFactor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/aresengine/EntityConvert.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/aresengine/FilterActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/aresengine/MyContact.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/aresengine/dao/SmsDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/numbermark/NumberMarkActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/qscanner/ScannerActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/update/UpdateActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v5tmsdkDemo6.0/src/main/java/com/tencent/tmsecure/demo/urlmonitor/UrlMonitorActivity.java" charset="UTF-8" />
+  </component>
+</project>

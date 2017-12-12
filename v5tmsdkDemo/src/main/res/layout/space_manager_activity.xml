@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.tencent.tmsecure.demo.spacemanager.SpaceManagerActivity" >
+
+    <TextView
+        android:id="@+id/bigfile_tips"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="大文件扫描"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="开始扫描"
+        android:id="@+id/scan_bigfile"
+        android:layout_below="@+id/bigfile_tips"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="停止扫描"
+        android:id="@+id/stop_bigfilescan"
+        android:layout_alignTop="@+id/scan_bigfile"
+        android:layout_toRightOf="@+id/scan_bigfile"
+        android:layout_toEndOf="@+id/scan_bigfile" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="删除文件"
+        android:id="@+id/delete_bg"
+        android:layout_alignTop="@+id/stop_bigfilescan"
+        android:layout_toRightOf="@+id/stop_bigfilescan"
+        android:layout_toEndOf="@+id/stop_bigfilescan" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="相似图片扫描"
+        android:id="@+id/photo_tips"
+        android:layout_below="@+id/scan_bigfile"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="32dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="扫描相似图"
+        android:id="@+id/scan_photo_button"
+        android:layout_below="@+id/photo_tips"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
